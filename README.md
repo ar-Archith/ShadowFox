@@ -1,4 +1,4 @@
-## ShadowFox AI/ML Internship - Beginner Level Task 1: Image Tagging with TensorFlow
+## ShadowFox AI/ML Internship - Beginner Level Task: Image Tagging with TensorFlow
 
 This repository implements a basic image tagging model using TensorFlow's Keras API. The model is trained to classify images of clothing items from the Fashion MNIST dataset into categories like "T-shirt/top," "Dress," or "Sneaker."
 
